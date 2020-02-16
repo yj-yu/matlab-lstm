@@ -1,0 +1,18 @@
+[submodule "code/Python-Lectures"]
+	path = code/Python-Lectures
+	url = https://github.com/rajathkmp/Python-Lectures.git
+[submodule "code/PythonZeroToAll"]
+	path = code/PythonZeroToAll
+	url = https://github.com/hunkim/PythonZeroToAll.git
+[submodule "code/cs228-material"]
+	path = code/cs228-material
+	url = https://github.com/kuleshov/cs228-material.git
+[submodule "code/Jump-to-python"]
+	path = code/Jump-to-python
+	url = https://github.com/LegendaryKim/Jump-to-Python
+[submodule "code/pycon-2017"]
+	path = code/pycon-2017
+	url = https://github.com/tylerjereddy/pycon-2017.git
+[submodule "code/scipy-2017-sklearn"]
+	path = code/scipy-2017-sklearn
+	url = https://github.com/amueller/scipy-2017-sklearn.git

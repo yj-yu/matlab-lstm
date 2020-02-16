@@ -1,0 +1,151 @@
+name: inverse
+class: center, middle, inverse
+layout: true
+title: Python-basic
+
+---
+class: titlepage, no-number
+
+# Machine Learning / Deep Learning project
+## .gray.author[Youngjae Yu]
+
+### .x-small[https://github.com/yj-yu/ml-project]
+### .x-small[https://yj-yu.github.io/ml-project]
+
+.bottom.img-66[ ![](images/snu-logo.png) ]
+
+---
+layout: false
+
+## About
+
+- Review on advent deep learning projects (on github)
+- Summary of guideline
+- Let's talk about our projects
+
+---
+
+template: inverse
+
+# Review on advent deep learning projects (on github)
+Practice make you perfect
+
+
+---
+
+## Open Lecture
+
+Stanford cs231n 
+- http://cs231n.stanford.edu/syllabus.html
+- Andrej Karpathy Lecture note
+- http://cs231n.stanford.edu/reports2016.html
+- http://aikorea.org/cs231n/
+
+cs224n (Natural Language Processing)
+- http://web.stanford.edu/class/cs224n/
+
+UFLDL Tutorial
+- http://ufldl.stanford.edu/tutorial/
+
+---
+
+## Fast way to learn
+
+- Find study group!
+- Make your own project!
+- Make your blog!
+- Write paper!
+
+
+---
+
+## Target your role model
+
+https://github.com/karpathy
+
+.center.img[ ![](images/karpathy.png) ]
+
+---
+
+## Target your role model
+
+https://github.com/carpedm20
+
+.center.img[ ![](images/carpedm.png) ]
+
+---
+
+## Search your target project 
+
+https://github.com/devsisters/multi-speaker-tacotron-tensorflow.git
+
+.center.img[ ![](images/model.png) ]
+
+
+---
+
+
+https://github.com/carpedm20/BEGAN-tensorflow
+
+.center.img[ ![](images/began.png) ]
+
+---
+
+## Search your target project 
+
+https://github.com/carpedm20/BEGAN-tensorflow
+
+.center.img-66[ ![](images/AE_batch.png) ]
+
+
+---
+
+## Search your target project 
+
+https://github.com/carpedm20/DCGAN-tensorflow
+
+
+---
+
+## find your work
+
+Github? or Tensortalk
+https://tensortalk.com/
+
+.center.img-66[ ![](images/tensortalk.png) ]
+
+---
+
+## Keras
+
+I recommend you to reproduce or rewrite open-source code.
+
+Intro to Deep Learning
+https://www.youtube.com/watch?v=t5qgjJIBy9g
+
+
+### Awesome projects
+
+https://github.com/eriklindernoren/Keras-GAN
+
+https://github.com/tdeboissiere/DeepLearningImplementations/tree/master/Colorful
+
+https://github.com/mineshmathew/char_rnn_karpathy_keras
+
+https://github.com/Rochester-NRT/RocAlphaGo
+---
+name: last-page
+class: center, middle, no-number
+## Thank You!
+
+
+<div style="position:absolute; left:0; bottom:20px; padding: 25px;">
+  <p class="left" style="margin:0; font-size: 13pt;">
+</div>
+
+.footnote[Slideshow created using [remark](http://github.com/gnab/remark).]
+
+
+
+
+<!-- vim: set ft=markdown: -->
